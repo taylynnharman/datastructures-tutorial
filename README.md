@@ -1,2 +1,1 @@
-Start Here:
-- [Welcome](datastructures-tutorial/welcome.md)
+[Start Here] (datastructures-tutorial/Welcome.md)
