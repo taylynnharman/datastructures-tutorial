@@ -1,0 +1,14 @@
+/Users/taylynndyer/Desktop/datastructures-tutorial/datastructures-tutorial/bin/Debug/net7.0/datastructures-tutorial
+/Users/taylynndyer/Desktop/datastructures-tutorial/datastructures-tutorial/bin/Debug/net7.0/datastructures-tutorial.deps.json
+/Users/taylynndyer/Desktop/datastructures-tutorial/datastructures-tutorial/bin/Debug/net7.0/datastructures-tutorial.runtimeconfig.json
+/Users/taylynndyer/Desktop/datastructures-tutorial/datastructures-tutorial/bin/Debug/net7.0/datastructures-tutorial.dll
+/Users/taylynndyer/Desktop/datastructures-tutorial/datastructures-tutorial/bin/Debug/net7.0/datastructures-tutorial.pdb
+/Users/taylynndyer/Desktop/datastructures-tutorial/datastructures-tutorial/obj/Debug/net7.0/datastructures-tutorial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/taylynndyer/Desktop/datastructures-tutorial/datastructures-tutorial/obj/Debug/net7.0/datastructures-tutorial.AssemblyInfoInputs.cache
+/Users/taylynndyer/Desktop/datastructures-tutorial/datastructures-tutorial/obj/Debug/net7.0/datastructures-tutorial.AssemblyInfo.cs
+/Users/taylynndyer/Desktop/datastructures-tutorial/datastructures-tutorial/obj/Debug/net7.0/datastructures-tutorial.csproj.CoreCompileInputs.cache
+/Users/taylynndyer/Desktop/datastructures-tutorial/datastructures-tutorial/obj/Debug/net7.0/datastructures-tutorial.dll
+/Users/taylynndyer/Desktop/datastructures-tutorial/datastructures-tutorial/obj/Debug/net7.0/refint/datastructures-tutorial.dll
+/Users/taylynndyer/Desktop/datastructures-tutorial/datastructures-tutorial/obj/Debug/net7.0/datastructures-tutorial.pdb
+/Users/taylynndyer/Desktop/datastructures-tutorial/datastructures-tutorial/obj/Debug/net7.0/datastructures-tutorial.genruntimeconfig.cache
+/Users/taylynndyer/Desktop/datastructures-tutorial/datastructures-tutorial/obj/Debug/net7.0/ref/datastructures-tutorial.dll
