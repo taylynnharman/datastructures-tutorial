@@ -30,11 +30,3 @@ It is expected that students using this tutorial already know how to program in 
 - [Visual Studio](https://visualstudio.microsoft.com/) (or an alternative C# IDE such as Rider)
 - .NET SDK (7.0)
 
-**Contact**
-
-For questions or comments, please sent them to:
-
-TayLynn Harman, BYU-Idaho, CSE 212-01
-
-dye22002@byui.edu
-
